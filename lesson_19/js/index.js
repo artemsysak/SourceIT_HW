@@ -1,1 +1,4 @@
-'use strict'
+function randomNumberHandler() {
+    // your magic
+   }
+   randomNumberHandler();
